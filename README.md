@@ -1,4 +1,4 @@
-# To Do list
+# To Do List
 > Desktop app which allows user to write his/her to do list. Update it and delete completed tasks.
 
 ## Technologies
